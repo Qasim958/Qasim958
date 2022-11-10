@@ -3,19 +3,22 @@
 
 ## ABOUT ME
 
-My name is ✨ **_Qasim Nawaz_** ✨and i'm a self-motivated, adaptable and responsible `Web developer` (this file) having a methodical
+My name is ✨ **_Qasim Nawaz_** ✨and i'm a self-motivated, adaptable and responsible `Web developer` having a methodical
 customer focused approach to work and a strong drive to see things through to
 completion.
 
-A ,
+## Skills
 
-Here are some ideas to get you started:
+- 🌱 `HTML`
+- 👯 `CSS` `SASS` `SCSS`
+- 🤔 `JAVASSCRIPT` `React JS`
+- 🔭 `Adobe XD` `PHOTOSHOP`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+ ## Contact Me
+ 
+ Feel free to contact me. Im available 24/7.
+ 
+- 💬 aliahmed958@hotmail.com
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
