@@ -1,8 +1,7 @@
-# ABOUT ME**Qasim Nawaz**
-
-## Welcome 👋
+# Welcome to my Github Profile 👋
 
 
+## ABOUT ME
 
 My name is ✨ **_Qasim Nawaz_** ✨and i'm a self-motivated, adaptable and responsible `Web developer` (this file) having a methodical
 customer focused approach to work and a strong drive to see things through to
