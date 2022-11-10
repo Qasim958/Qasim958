@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 
-**Qasim958/Qasim958** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Qasim Nawaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ABOUT ME
+A self-motivated, adaptable and responsible IT graduate, having a methodical
+customer focused approach to work and a strong drive to see things through to
+completion.
 
 Here are some ideas to get you started:
 
