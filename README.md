@@ -9,6 +9,8 @@ completion.
 
 ## Skills
 
+ I have working knowledge of following technologies some are mentioned above:
+
 - 🌱 `HTML`
 - 👯 `CSS` `SASS` `SCSS`
 - 🤔 `JAVASSCRIPT` `React JS`
