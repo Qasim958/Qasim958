@@ -1,14 +1,14 @@
-# **Qasim Nawaz**
+# ABOUT ME**Qasim Nawaz**
 
-## Welcome to my Github profile👋
+## Welcome 👋
 
-ABOUT ME
 
- is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-A self-motivated, adaptable and responsible IT graduate, having a methodical
+My name is ✨ **_Qasim Nawaz_** ✨and i'm a self-motivated, adaptable and responsible `Web developer` (this file) having a methodical
 customer focused approach to work and a strong drive to see things through to
 completion.
+
+A ,
 
 Here are some ideas to get you started:
 
