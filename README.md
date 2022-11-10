@@ -1,5 +1,7 @@
-### Hi there 👋
-My Name is **Qasim Nawaz**
+# **Qasim Nawaz**
+
+## Welcome to my Github profile👋
+
 ABOUT ME
 
  is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
